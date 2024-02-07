@@ -8,45 +8,45 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ConcessionariaWeb
 build_property.RootNamespace = ConcessionariaWeb
-build_property.ProjectDir = C:\Users\Nathan\Desktop\teste concessionaria\ConcessionariaWeb\ConcessionariaWeb\
+build_property.ProjectDir = C:\GITHub\teste concessionaria\ConcessionariaWeb\ConcessionariaWeb\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Nathan\Desktop\teste concessionaria\ConcessionariaWeb\ConcessionariaWeb
+build_property.MSBuildProjectDirectory = C:\GITHub\teste concessionaria\ConcessionariaWeb\ConcessionariaWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Nathan/Desktop/teste concessionaria/ConcessionariaWeb/ConcessionariaWeb/Views/Home/AdicionarVeiculo.cshtml]
+[C:/GITHub/teste concessionaria/ConcessionariaWeb/ConcessionariaWeb/Views/Home/AdicionarVeiculo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGljaW9uYXJWZWljdWxvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Nathan/Desktop/teste concessionaria/ConcessionariaWeb/ConcessionariaWeb/Views/Home/DetalhesVeiculo.cshtml]
+[C:/GITHub/teste concessionaria/ConcessionariaWeb/ConcessionariaWeb/Views/Home/DetalhesVeiculo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhbGhlc1ZlaWN1bG8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Nathan/Desktop/teste concessionaria/ConcessionariaWeb/ConcessionariaWeb/Views/Home/EditarVeiculo.cshtml]
+[C:/GITHub/teste concessionaria/ConcessionariaWeb/ConcessionariaWeb/Views/Home/EditarVeiculo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0YXJWZWljdWxvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Nathan/Desktop/teste concessionaria/ConcessionariaWeb/ConcessionariaWeb/Views/Home/Index.cshtml]
+[C:/GITHub/teste concessionaria/ConcessionariaWeb/ConcessionariaWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Nathan/Desktop/teste concessionaria/ConcessionariaWeb/ConcessionariaWeb/Views/Shared/Error.cshtml]
+[C:/GITHub/teste concessionaria/ConcessionariaWeb/ConcessionariaWeb/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Nathan/Desktop/teste concessionaria/ConcessionariaWeb/ConcessionariaWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/GITHub/teste concessionaria/ConcessionariaWeb/ConcessionariaWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Nathan/Desktop/teste concessionaria/ConcessionariaWeb/ConcessionariaWeb/Views/_ViewImports.cshtml]
+[C:/GITHub/teste concessionaria/ConcessionariaWeb/ConcessionariaWeb/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Nathan/Desktop/teste concessionaria/ConcessionariaWeb/ConcessionariaWeb/Views/_ViewStart.cshtml]
+[C:/GITHub/teste concessionaria/ConcessionariaWeb/ConcessionariaWeb/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Nathan/Desktop/teste concessionaria/ConcessionariaWeb/ConcessionariaWeb/Views/Shared/_Layout.cshtml]
+[C:/GITHub/teste concessionaria/ConcessionariaWeb/ConcessionariaWeb/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ucxep8ndjx

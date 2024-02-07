@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nathan\\Desktop\\teste concessionaria\\ConcessionariaWeb\\ConcessionariaWeb\\ConcessionariaWeb.csproj",
+      "projectUniqueName": "C:\\GITHub\\teste concessionaria\\ConcessionariaWeb\\ConcessionariaWeb\\ConcessionariaWeb.csproj",
       "projectName": "ConcessionariaWeb",
-      "projectPath": "C:\\Users\\Nathan\\Desktop\\teste concessionaria\\ConcessionariaWeb\\ConcessionariaWeb\\ConcessionariaWeb.csproj",
+      "projectPath": "C:\\GITHub\\teste concessionaria\\ConcessionariaWeb\\ConcessionariaWeb\\ConcessionariaWeb.csproj",
       "packagesPath": "C:\\Users\\Nathan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nathan\\Desktop\\teste concessionaria\\ConcessionariaWeb\\ConcessionariaWeb\\obj\\",
+      "outputPath": "C:\\GITHub\\teste concessionaria\\ConcessionariaWeb\\ConcessionariaWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
