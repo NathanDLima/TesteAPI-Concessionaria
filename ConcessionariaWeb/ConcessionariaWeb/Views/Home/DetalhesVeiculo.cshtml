@@ -1,0 +1,42 @@
+﻿@model Veiculo
+
+@{
+    ViewData["Title"] = "Detalhes do veículo";
+}
+
+<div class="row">
+    <div class="text-center">
+        <h1>Detalhes do Carro</h1>  
+    </div>
+</div> 
+
+<div class="details-view">
+    <dl>
+
+        <dt>Modelo:</dt>
+        <dd>@Model.Modelo</dd>
+
+        <dt>Marca:</dt>
+        <dd>@Model.Marca</dd>
+
+        <dt>Versão:</dt>
+        <dd>@Model.Versao</dd>
+
+        <dt>Ano:</dt>
+        <dd>@Model.Ano</dd>
+
+        <dt>Quilometragem:</dt>
+        <dd>@Model.Quilometragem</dd>
+
+        <dt>Valor:</dt>
+        <dd>R$ @Model.Valor</dd>
+
+    </dl>
+</div>
+
+
+<div class="text-end">
+    <button onclick="window.location.href='/'" class="btn-danger">Voltar para a Lista</button>
+</div>
+
+

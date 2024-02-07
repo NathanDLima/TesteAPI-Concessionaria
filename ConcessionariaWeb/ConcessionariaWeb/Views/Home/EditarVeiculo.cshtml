@@ -1,0 +1,43 @@
+﻿@model Veiculo;
+
+@{
+    ViewData["Title"] = "Edição do Veículo";
+}
+
+<div class="row">
+    <div class="text-center">
+        <h1>Editar Veículo</h1>   
+    </div>
+</div> 
+
+
+<form id="form-edit-vehicle">
+    <input type="hidden" id="veiculo-id" value="@Model.Id"/>
+    <div class="input-wrapper">
+        <label>Modelo:</label>
+        <input type="text" id="modelo" value="@Model.Modelo">
+    </div>
+    <div class="input-wrapper">
+        <label>Marca:</label>
+        <input type="text" id="marca" value="@Model.Marca">
+    </div>
+    <div class="input-wrapper">
+        <label>Versão:</label>
+        <input type="text" id="versao" value="@Model.Versao">
+    </div>
+    <div class="input-wrapper">
+        <label>Ano:</label>
+        <input type="number" id="ano" value="@Model.Ano">
+    </div>
+    <div class="input-wrapper">
+        <label>Quilometragem:</label>
+        <input type="number" id="quilometragem" value="@Model.Quilometragem">
+    </div>
+    <div class="input-wrapper">
+        <label>Valor:</label>
+        <input type="number" id="valor" value="@Model.Valor">
+    </div>
+    <div class="text-end">
+        <button type="submit" class="btn-red">Editar</button>
+    </div>
+</form>

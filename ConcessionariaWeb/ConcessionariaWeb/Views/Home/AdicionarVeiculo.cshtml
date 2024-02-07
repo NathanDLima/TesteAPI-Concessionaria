@@ -1,0 +1,46 @@
+﻿@model Veiculo
+
+@{
+    ViewData["Title"] = "Adicionar Novo Carro";
+}
+
+
+<div class="row">
+    <div class="text-center">
+        <h1>Adicionar Novo Carro</h1>   
+    </div>
+</div> 
+
+
+<form id="form-add-vehicle">
+    <div class="input-wrapper">
+        <label>Modelo:</label>
+        <input type="text" id="modelo" required>
+    </div>
+    <div class="input-wrapper">
+        <label>Marca:</label>
+        <input type="text" id="marca" required>
+    </div>
+    <div class="input-wrapper">
+        <label>Versão:</label>
+        <input type="text" id="versao" required>
+    </div>
+    <div class="input-wrapper">
+        <label>Ano:</label>
+        <input type="number" id="ano" required>
+    </div>
+    <div class="input-wrapper">
+        <label>Quilometragem:</label>
+        <input type="number" id="quilometragem" required>
+    </div>
+    <div class="input-wrapper">
+        <label>Valor:</label>
+        <input type="number" id="valor" required>
+    </div>
+    <div class="text-end">
+        <button type="submit" class="btn-red">Adicionar</button>
+    </div>
+    
+</form>
+
+

@@ -1,0 +1,123 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+.container {
+    background-color: #fff;
+    margin-bottom: 70px;
+}
+
+.container-footer {
+    background-color: #fff;
+    min-height: 100%;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+body {
+    background-color: #ae4343;
+}
+
+.vehicle-block {
+    height: 300px; 
+    padding: 1rem;
+    background-color: #cdd1d6;
+    border: 1px solid #ddd;
+}
+
+.vehicle-name {
+    height: 20%; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.vehicle-info {
+    height: 60%; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.vehicle-actions {
+    height: 20%; 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn-details {
+    height: 65%;
+    color: #fff;
+    background-color: #393939;
+    border-color: #393939;
+    width: 33%;
+    margin-right: 2pt;
+    text-align: center;
+    padding: 1pt;
+}
+
+.btn-edit {
+    height: 65%;
+    color: #fff;
+    background-color: #4251d6;
+    border-color: #4251d6;
+    width: 33%;
+    margin-right: 2pt;
+    text-align: center;
+    padding: 1pt;
+}
+
+.btn-sell {
+    height: 65%;
+    color: #fff;
+    background-color: #5f9d26ef;
+    border-color: #5f9d26ef;
+    width: 33%;
+    margin-right: 2pt;
+    text-align: center;
+    padding: 1pt;
+}
+
+.btn-add {
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+    width: 40pt;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.btn-red {
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+.input-wrapper {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.details-view {
+    height: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
